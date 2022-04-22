@@ -1,0 +1,26 @@
+@font-face {
+    font-family: flappy-font;
+    src: url(../fonts/flappy-font/flappy-font.ttf);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas#game-canvas {
+    box-sizing: content-box;
+    border: 1px solid #000000;
+    display: block;
+    margin: 0 auto;
+}
