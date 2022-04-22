@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielandradedev/projetinhos/flappy-bird-js/master/preview.gif" width="322" height="482" alt="flappy-bird-js">
+  <img src="https://raw.githubusercontent.com/gabrielandradedev/projetinhos/master/flappy-bird-js/preview.gif" width="322" height="482" alt="flappy-bird-js">
 </p>
 
 # flappy-bird-js
