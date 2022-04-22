@@ -25,3 +25,6 @@ hs_err_pid*
 # IntelliJ Stuff
 .idea/*
 textbased-chess-java.iml
+
+# Old Git Repository
+!.git.zip
